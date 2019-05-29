@@ -5,10 +5,7 @@
  */
 public class Demo2 {
     public static void main(String[] args){
-      System.out.println("fdsafds");
-        System.out.println("fdsafds");
-         System.out.println("fdsafds");
-         System.out.println("fdsafds");
+System.out.println("3333333333333");
       
     }
 }
