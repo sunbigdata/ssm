@@ -21,5 +21,8 @@ public class Demo3 {
         }
 
         System.out.println(Arrays.toString(a));
+        System.out.println(Arrays.toString(a));
+        System.out.println(Arrays.toString(a));
+        System.out.println(Arrays.toString(a));
     }
 }
