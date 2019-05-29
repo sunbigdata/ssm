@@ -24,5 +24,7 @@ public class Demo3 {
         System.out.println(Arrays.toString(a));
         System.out.println(Arrays.toString(a));
         System.out.println(Arrays.toString(a));
+
+        System.out.println("合格范德萨范德萨");
     }
 }
